@@ -1,0 +1,349 @@
+{
+  "id": "monkey_and_crocodile",
+  "title": "The Monkey and the Crocodile",
+  "titleZh": "猴子與鱷魚",
+  "roles": {
+    "narrator": {
+      "label": "旁白",
+      "nameEn": "Narrator",
+      "emoji": "📖",
+      "color": "#64748b",
+      "voice": "en-GB-SoniaNeural"
+    },
+    "monkey": {
+      "label": "猴子",
+      "nameEn": "Monkey",
+      "emoji": "🐒",
+      "color": "#d97706",
+      "voice": "en-US-AnaNeural"
+    },
+    "crocodile": {
+      "label": "鱷魚",
+      "nameEn": "Crocodile",
+      "emoji": "🐊",
+      "color": "#15803d",
+      "voice": "en-US-ChristopherNeural"
+    },
+    "crocodile_wife": {
+      "label": "鱷魚太太",
+      "nameEn": "Mrs. Crocodile",
+      "emoji": "🐊",
+      "color": "#7c3aed",
+      "voice": "en-US-AriaNeural"
+    }
+  },
+  "lines": [
+    {
+      "no": 1,
+      "paragraph": 0,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "Once upon a time, there was a clever monkey.",
+          "audio": "audio/01-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "paragraph": 0,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "He lived on a beautiful island, in an apple tree.",
+          "audio": "audio/02-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 3,
+      "paragraph": 0,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "One day, a crocodile swam to the island.",
+          "audio": "audio/03-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 4,
+      "paragraph": 0,
+      "segments": [
+        {
+          "role": "crocodile",
+          "text": "“I’m hungry,”",
+          "audio": "audio/04-1.mp3"
+        },
+        {
+          "role": "narrator",
+          "text": "he said.",
+          "audio": "audio/04-2.mp3"
+        }
+      ]
+    },
+    {
+      "no": 5,
+      "paragraph": 0,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "So the monkey threw a red apple to the crocodile.",
+          "audio": "audio/05-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 6,
+      "paragraph": 0,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "The crocodile munched and munched.",
+          "audio": "audio/06-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 7,
+      "paragraph": 0,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "The next day, the crocodile came back.",
+          "audio": "audio/07-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 8,
+      "paragraph": 0,
+      "segments": [
+        {
+          "role": "crocodile",
+          "text": "“Please, may I have two apples?”",
+          "audio": "audio/08-1.mp3"
+        },
+        {
+          "role": "narrator",
+          "text": "he asked.",
+          "audio": "audio/08-2.mp3"
+        }
+      ]
+    },
+    {
+      "no": 9,
+      "paragraph": 0,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "He ate one and gave one to his wife.",
+          "audio": "audio/09-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 10,
+      "paragraph": 1,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "The crocodile went to see the monkey every day, to listen to his tales and eat his apples.",
+          "audio": "audio/10-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 11,
+      "paragraph": 1,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "He wanted to be clever, just like the monkey.",
+          "audio": "audio/11-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 12,
+      "paragraph": 1,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "The crocodile’s wife had an idea.",
+          "audio": "audio/12-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 13,
+      "paragraph": 1,
+      "segments": [
+        {
+          "role": "crocodile_wife",
+          "text": "“Why don’t you eat his heart? Then you’ll be clever, just like him!”",
+          "audio": "audio/13-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 14,
+      "paragraph": 1,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "The next day, he said to the monkey,",
+          "audio": "audio/14-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 15,
+      "paragraph": 1,
+      "segments": [
+        {
+          "role": "crocodile",
+          "text": "“Come to my house! We’ll have lunch together, to thank you for the apples.”",
+          "audio": "audio/15-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 16,
+      "paragraph": 1,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "But when he arrived, the crocodile snapped and said,",
+          "audio": "audio/16-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 17,
+      "paragraph": 1,
+      "segments": [
+        {
+          "role": "crocodile",
+          "text": "“Monkey! I want to eat your heart, so I can be as clever as you!”",
+          "audio": "audio/17-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 18,
+      "paragraph": 2,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "The clever monkey thought quickly and said,",
+          "audio": "audio/18-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 19,
+      "paragraph": 2,
+      "segments": [
+        {
+          "role": "monkey",
+          "text": "“But... I haven’t got my heart here.”",
+          "audio": "audio/19-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 20,
+      "paragraph": 2,
+      "segments": [
+        {
+          "role": "monkey",
+          "text": "“It’s on the island, in the apple tree.”",
+          "audio": "audio/20-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 21,
+      "paragraph": 2,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "They all went back to the island.",
+          "audio": "audio/21-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 22,
+      "paragraph": 2,
+      "segments": [
+        {
+          "role": "monkey",
+          "text": "“Wait here, and I will get my heart,”",
+          "audio": "audio/22-1.mp3"
+        },
+        {
+          "role": "narrator",
+          "text": "said the monkey.",
+          "audio": "audio/22-2.mp3"
+        }
+      ]
+    },
+    {
+      "no": 23,
+      "paragraph": 2,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "The monkey quickly climbed the tree and sat at the top.",
+          "audio": "audio/23-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 24,
+      "paragraph": 2,
+      "segments": [
+        {
+          "role": "monkey",
+          "text": "“Oh, Crocodile. You are greedy.”",
+          "audio": "audio/24-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 25,
+      "paragraph": 2,
+      "segments": [
+        {
+          "role": "monkey",
+          "text": "“Of course you can’t have my heart.”",
+          "audio": "audio/25-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 26,
+      "paragraph": 2,
+      "segments": [
+        {
+          "role": "monkey",
+          "text": "“And now, you can’t have my apples!”",
+          "audio": "audio/26-1.mp3"
+        }
+      ]
+    },
+    {
+      "no": 27,
+      "paragraph": 2,
+      "segments": [
+        {
+          "role": "narrator",
+          "text": "And the clever monkey laughed and laughed!",
+          "audio": "audio/27-1.mp3"
+        }
+      ]
+    }
+  ]
+}

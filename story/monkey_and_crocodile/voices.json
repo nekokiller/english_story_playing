@@ -1,0 +1,42 @@
+{
+  "title": "The Monkey and the Crocodile",
+  "titleZh": "猴子與鱷魚",
+  "roles": {
+    "旁白": {
+      "id": "narrator",
+      "nameEn": "Narrator",
+      "emoji": "📖",
+      "color": "#64748b",
+      "voice": "en-GB-SoniaNeural",
+      "rate": "+0%",
+      "pitch": "+0Hz"
+    },
+    "猴子": {
+      "id": "monkey",
+      "nameEn": "Monkey",
+      "emoji": "🐒",
+      "color": "#d97706",
+      "voice": "en-US-AnaNeural",
+      "rate": "+5%",
+      "pitch": "+0Hz"
+    },
+    "鱷魚": {
+      "id": "crocodile",
+      "nameEn": "Crocodile",
+      "emoji": "🐊",
+      "color": "#15803d",
+      "voice": "en-US-ChristopherNeural",
+      "rate": "-15%",
+      "pitch": "-18Hz"
+    },
+    "鱷魚太太": {
+      "id": "crocodile_wife",
+      "nameEn": "Mrs. Crocodile",
+      "emoji": "🐊",
+      "color": "#7c3aed",
+      "voice": "en-US-AriaNeural",
+      "rate": "-18%",
+      "pitch": "-15Hz"
+    }
+  }
+}
